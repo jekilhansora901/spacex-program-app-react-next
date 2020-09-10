@@ -1,0 +1,30 @@
+{
+  "name": "spacex-app",
+  "version": "1.0.0",
+  "description": "SpaceX Program Application to track launch programs of SpaceX",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "heroku-postbuild": "npm run build",
+    "test": "echo \"no test \" && exit 1"
+  },
+  "keywords": ["ReactJS", "Redux", "NextJS", "SpaceX", "Program", "Flights", "SSR", "Server side Rendering"],
+  "author": "Jekil Hansora",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "axios": "^0.20.0",
+    "next": "^9.1.7",
+    "next-redux-wrapper": "^4.0.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-redux": "^7.1.3",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.8"
+  }
+}
