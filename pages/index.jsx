@@ -7,6 +7,7 @@ import Filters from "../components/Filters";
 import DisplayFlight from '../components/DisplayFlight';
 import { FILTER_YEARS, FILTER_LAUNCH, FILTER_LANDING } from '../common-const';
 import { Spinner } from '../components/Spinner';
+import Head from 'next/head'
 import axios from 'axios';
 
 class Home extends React.Component {
@@ -51,6 +52,9 @@ class Home extends React.Component {
         const flights = firstRender ? initData : flightData;
         return (
             <div style={{backgroundColor: '#f1f1f1'}}>
+                <Head>
+                    <title>SpaceX Program</title>
+                </Head>
             <div>
               <div className="header_title">
                 <h2>SpaceX Launch Program</h2>
