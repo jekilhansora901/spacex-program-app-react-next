@@ -46,4 +46,6 @@
 - ![701 px view](https://github.com/jekilhansora901/spacex-program-app-react-next/blob/master/sc_701.PNG)
 * 1440 PX 
 - ![1440 px view](https://github.com/jekilhansora901/spacex-program-app-react-next/blob/master/sc_1440.PNG)
+* 1660 PX 
+- ![1660 px view](https://github.com/jekilhansora901/spacex-program-app-react-next/blob/master/sc_1660.PNG)
 
