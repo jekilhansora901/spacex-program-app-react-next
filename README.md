@@ -22,9 +22,9 @@
 - Make sure you have Node.js installed in your system
 - Go to Terminal and run below commands:
 ```
- - ** cd spacex-program-app-react-next **
- - ** npm i **
- - ** npm run dev **
+ - cd spacex-program-app-react-next
+ - npm i
+ - npm run dev
 ```
 ### Demo
 - Application is deployed to Heroku on below URL:
@@ -40,4 +40,10 @@
 - [x] Deploy
 
 ### Screenshot
-- 
+* 320 PX 
+- ![320 px view](https://github.com/jekilhansora901/spacex-program-app-react-next/blob/master/sc_320.PNG)
+* 701 PX 
+- ![701 px view](https://github.com/jekilhansora901/spacex-program-app-react-next/blob/master/sc_701.PNG)
+* 1440 PX 
+- ![1440 px view](https://github.com/jekilhansora901/spacex-program-app-react-next/blob/master/sc_1440.PNG)
+
